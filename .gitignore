@@ -19,6 +19,9 @@ target/
 *.iml
 *.ipr
 
+### Rust ###
+**/*.lock
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
